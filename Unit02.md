@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA242: Real Analysis II"
+course_description: "A further study of real numbers, their real-valued functions, and integration and differentiation of these functions through the analysis of Manifolds."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Riemann Integration in Higher Dimensions** <span
 id="2"></span> 
 *As you learned in* [MA241](http://www.saylor.org/courses/ma241/)*, the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA242: Real Analysis II"
+course_description: "A further study of real numbers, their real-valued functions, and integration and differentiation of these functions through the analysis of Manifolds."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Differentiation on R<sup>n</sup>** <span id="1"></span> 
 ***A note about the mathematical notation used in this course:
 Throughout this course, we will be concerned with the space***

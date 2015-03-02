@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA242: Real Analysis II"
+course_description: "A further study of real numbers, their real-valued functions, and integration and differentiation of these functions through the analysis of Manifolds."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA242: Real Analysis II"
 ---------------------------------------------
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA242: Real Analysis II"
+course_description: "A further study of real numbers, their real-valued functions, and integration and differentiation of these functions through the analysis of Manifolds."
+next: ../../../
+previous: ../Unit02
+---
 **Unit 3: Integration on Chains** <span id="3"></span> 
 *The n-dimensional space **R<sup>n</sup>** may contain, for any
 dimension k smaller than n, subspaces that locally look just like
