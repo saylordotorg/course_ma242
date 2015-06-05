@@ -279,4 +279,8 @@ or when solving many exercises is required to understand fully the
 material, this requirement (and additional allotted time) will be
 indicated clearly in the time advisory.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/ma242/Unit01/)
+- [Unit 2](https://legacy.saylor.org/ma242/Unit02/)
+- [Unit 3](https://legacy.saylor.org/ma242/Unit03/)
