@@ -301,3 +301,4 @@ indicated clearly in the time advisory.
 - [Unit 1](https://legacy.saylor.org/ma242/Unit01/)
 - [Unit 2](https://legacy.saylor.org/ma242/Unit02/)
 - [Unit 3](https://legacy.saylor.org/ma242/Unit03/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA242/MA242-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA242/MA242-FinalExam-Answers.html)
