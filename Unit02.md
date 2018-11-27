@@ -4,13 +4,13 @@ id="2"></span> 
 integral is a form of a continuous sum that is developed and used to
 measure the area between the graph of a function and the X-axis. The
 graph of a “nice-enough” function
-![](http://www.saylor.org/site/wp-content/uploads/2013/05/MA242-Unit2Description-Eq1.jpg)
+![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-Unit2Description-Eq1.jpg)
 encloses an area in
-![](http://www.saylor.org/site/wp-content/uploads/2013/05/MA242-Unit2Description-R3.jpg)
+![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-Unit2Description-R3.jpg)
 which, at least intuitively, has volume. The Riemann integral for such
 functions turns this idea into a concrete definition that is a direct
 generalization of the concept of the Riemann integral for functions
-![](http://www.saylor.org/site/wp-content/uploads/2013/05/MA242-Unit2Description-Eq2.jpg).
+![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-Unit2Description-Eq2.jpg).
 Unlike the case of differentiability, which we explored in the previous
 unit of this course, the passage to higher dimensions presents
 relatively little difficulty in the case of the Riemann integral. In
@@ -33,7 +33,7 @@ Completing this unit should take you approximately 45 hours.
 **Unit2 Learning Outcomes**  
 Upon successful completion of this unit, you will be able to:
 -   define the Riemann integral of a function
-    ![](http://www.saylor.org/site/wp-content/uploads/2013/05/MA242-Unit2LOs-Eq1.jpg);
+    ![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-Unit2LOs-Eq1.jpg);
 
 <!-- -->
 
@@ -77,7 +77,7 @@ Upon successful completion of this unit, you will be able to:
 -   use polar and spherical coordinates.
 
 **2.1 A Review of Riemann Integration in
-![](http://www.saylor.org/site/wp-content/uploads/2013/05/MA242-Unit2-Rbox.jpg)**
+![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-Unit2-Rbox.jpg)**
 <span id="2.1"></span> 
 -   **Reading: Trinity University: Dr. William F. Trench's *Introduction
     to Real Analysis*: “Chapter 3, Section 1: Definition of the
