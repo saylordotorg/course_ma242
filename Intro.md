@@ -114,7 +114,7 @@ Upon successful completion of this course, you will be able to:
 <!-- -->
 
 -   define the Riemann integral of a function
-    ![](http://www.saylor.org/site/wp-content/uploads/2013/05/MA242-LOs-Eq1.jpg);
+    ![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-LOs-Eq1.jpg);
 
 <!-- -->
 
@@ -206,7 +206,7 @@ computer;
  √    have competency in the English language;  
      
  √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
     
  √    have successfully completed the following Saylor courses, or their
