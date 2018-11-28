@@ -8,14 +8,14 @@ and purposes, you may treat these two notations as interchangeable names
 used for the same space.***  
     
  *The derivative of a function
-![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-Unit1Description-Eq1.jpg)
+![](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/MA242-Unit1Description-Eq1.jpg)
 at a point p, as developed in*
 [MA241](http://www.saylor.org/courses/ma241/)*, can be thought of as the
 slope of the line (if it exists) tangent to the graph of the function f
 at the point (p,f(p)). But generalizing this idea to a function
-![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-Unit1Description-Eq2.jpg)
+![](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/MA242-Unit1Description-Eq2.jpg)
 is not straightforward. To see why, consider a function
-![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-Unit1Description-Eq3.jpg). Its
+![](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/MA242-Unit1Description-Eq3.jpg). Its
 graph is an object in four dimensions and it is not at all clear what a
 tangent line would be for such an object.  
     

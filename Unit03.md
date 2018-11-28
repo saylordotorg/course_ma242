@@ -12,9 +12,9 @@ integration over arbitrary manifolds is far from being a trivial task.
 Part of the reason for this is that manifolds in **R<sup>n</sup>** can
 be extremely complicated as soon as n\>2. The case n=1 presents little
 difficulty since the only possible manifold
-in ![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-Unit2-Rbox.jpg) that
+in ![](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/MA242-Unit2-Rbox.jpg) that
 is of smaller dimension than that of
-![](https://resources.saylor.org/archived/wp-content/uploads/2013/05/MA242-Unit2-Rbox.jpg)
+![](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/MA242-Unit2-Rbox.jpg)
 is a point. The case n=2 already presents some difficulties, since now
 manifolds inside **R<sup>2</sup>** include curves. This situation still
 can be managed rather straightforwardly because the boundary of a curve
